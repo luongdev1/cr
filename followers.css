@@ -1706,7 +1706,7 @@ body {
 .night,
 .flowers,
 .bubbles {
-  animation: hideElement linear 0.5s 5s forwards;
+  animation: hideElement linear 0.5s 10s forwards;
 }
 
 @keyframes hideElement {

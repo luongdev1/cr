@@ -82,4 +82,4 @@ setTimeout(() => {
     var element = document.getElementById("car");
     element.classList.remove("hidden");
     runCar();
-}, 5500);
+}, 10500);
